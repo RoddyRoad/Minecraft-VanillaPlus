@@ -3,7 +3,7 @@
 A carefully curated Vanilla+ Minecraft modpack focused on
 performance, immersion, and staying true to the core game.
 
-![Screenshot](docs/images/hero.png)
+![Screenshot](docs/images/MCVanilla+.png)
 
 ## What is Vanilla+?
 - No overpowered gear
