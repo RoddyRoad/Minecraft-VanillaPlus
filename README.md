@@ -24,7 +24,7 @@ performance, immersion, and staying true to the core game.
 
 ## Documentation
 ➡️ **Full setup guide, screenshots, and troubleshooting:**  
-👉 https://YOURNAME.github.io/REPO-NAME/
+👉 [https://roddyroad.github.io/Minecraft-VanillaPlus/]
 
 ## Version Info
 - Minecraft: 1.21.1
