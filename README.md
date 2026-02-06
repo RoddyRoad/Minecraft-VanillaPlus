@@ -1,4 +1,4 @@
-# MC Vanilla+ Client
+# Minecraft Vanilla+
 
 A carefully curated Vanilla+ Minecraft modpack focused on
 performance, immersion, and staying true to the core game.
