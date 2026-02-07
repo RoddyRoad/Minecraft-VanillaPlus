@@ -3,12 +3,9 @@
 A carefully curated Vanilla+ Minecraft modpack focused on
 performance, immersion, and staying true to the core game.
 
-![Screenshot](docs/images/MC_Vanilla+_2.png)
-
-## What is Vanilla+?
-- No overpowered gear
-- No bloated mechanics
-- Vanilla gameplay, just enhanced
+## Set-Up Guide
+MC Vanilla+ uses Modrinth as the backbone for launching, editing, and updating this modpack. You can download the Modrinth applicaiton at the following link:
+👉 [(https://modrinth.com/)]
 
 ## Features
 - Performance-focused Fabric stack
@@ -24,7 +21,7 @@ performance, immersion, and staying true to the core game.
 
 ## Documentation
 ➡️ **Full setup guide, screenshots, and troubleshooting:**  
-👉 [https://roddyroad.github.io/Minecraft-VanillaPlus/]
+👉 [[https://roddyroad.github.io/Minecraft-VanillaPlus/](https://modrinth.com/)]
 
 ## Version Info
 - Minecraft: 1.21.1
