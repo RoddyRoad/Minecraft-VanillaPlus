@@ -5,6 +5,7 @@ performance, immersion, and staying true to the core game.
 
 ## Set-Up Guide
 MC Vanilla+ uses Modrinth as the backbone for launching, editing, and updating this modpack. You can download the Modrinth applicaiton at the following link:
+
 👉 [(https://modrinth.com/)]
 
 ## Features
