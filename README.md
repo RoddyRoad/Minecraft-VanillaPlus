@@ -17,7 +17,7 @@ performance, immersion, and staying true to the core game.
 - Carefully balanced QoL mods
 
 ## Installation Guide
-docs/guides/README.md
+👉 docs/guides/README.md
 
 ## Version Info
 - Minecraft: 1.21.1
