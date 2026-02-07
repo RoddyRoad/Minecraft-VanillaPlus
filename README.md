@@ -16,15 +16,8 @@ performance, immersion, and staying true to the core game.
 - Expanded biomes & world detail
 - Carefully balanced QoL mods
 
-## Getting Started (Quick)
-1. Install and launch the Modrinth App
-2. Import the `.mrpack` in a new instance
-3. Increase RAM allocation to at least 8GB
-4. Done
-
-## Documentation
-➡️ **Full setup guide, screenshots, and troubleshooting:**  
-👉 [https://roddyroad.github.io/Minecraft-VanillaPlus/]
+## Installation Guide
+docs/guides/README.md
 
 ## Version Info
 - Minecraft: 1.21.1
