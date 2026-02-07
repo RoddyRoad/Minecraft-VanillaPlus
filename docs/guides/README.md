@@ -20,7 +20,7 @@ Apex Hosting servers DO NOT have an automatic restart function, so if the server
 ## Creating a New Instance in Modrinth for Minecraft Vanilla+
 Click the 'plus' icon on the left side of the application. Click on the 'From File' tab and select the 'MC Vanilla+' .mrpack file, which you can download either from my post in Discord or from the following file in GitHub:
 
-👉 docs/releases/MC Vanilla+ 1.0.0.mrpack
+👉 docs/releases/MC Vanilla+ 1.1.0.mrpack
 
 Once the file is downloaded, click the cog icon to the right side of 'Play'. Navigate to the 'Java and memory' tab, click the 'Custom memory allocation' box and move the slider to be 8GB (8192 MB). The other way, and arguably best way, is to navigate to the cog wheel at the bottom left of the application by your profile icon. Click on the 'Default instance options' tab and move the slider to 8GB (8192 MB).
 
