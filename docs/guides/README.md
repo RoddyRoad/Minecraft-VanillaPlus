@@ -8,6 +8,14 @@ MC Vanilla+ uses Modrinth as the backbone for launching, editing, and updating t
 
 👉 [(https://modrinth.com/)]
 
+The server is being run on Apex Hosting servers and the following individuals are admins for the server:
+- JaamaF
+- Dyl_Pickler
+- TheDuckOfDeath
+- TheBookerDeWitt
+
+
+
 ## Features
 - Performance-focused Fabric stack
 - Visual improvements (animations, lighting, models)
