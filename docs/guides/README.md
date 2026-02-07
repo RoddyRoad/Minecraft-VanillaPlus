@@ -20,7 +20,18 @@ Apex Hosting servers DO NOT have an automatic restart function, so if the server
 ## Creating a New Instance in Modrinth for Minecraft Vanilla+
 Click the 'plus' icon on the left side of the application. Click on the 'From File' tab and select the 'MC Vanilla+' .mrpack file, which you can download either from my post in Discord or from the following file in GitHub:
 
-👉 [https://modrinth.com/]
+👉 docs/releases/MC Vanilla+ 1.0.0.mrpack
+
+Once the file is downloaded, click the cog icon to the right side of 'Play'. Navigate to the 'Java and memory' tab, click the 'Custom memory allocation' box and move the slider to be 8GB (8192 MB). The other way, and arguably best way, is to navigate to the cog wheel at the bottom left of the application by your profile icon. Click on the 'Default instance options' tab and move the slider to 8GB (8192 MB).
+
+Your game should now be ready to launch!
+
+## Notes
+# Settings
+The .mrpack that you downloaded includes mods, resource packs, shader packs, and the options I use for the game. With that said, all of the keybinds, control settings, video settings, etc. are all from my version of the game. So, you will need to update all of the settings to your preference. Furthermore, I crafted this modpack to where not only the mods themselves are fundamental to the experience but the resource and shader packs are as well. You are welcome to add/remove/change any of the aforementioned optionals as you see fit, just be aware that some textures for entities and items may break.
+
+# XP Pedestal
+Due to a mod not having been updated to 1.21.1, I decided to create my own mod for storing experience in-game. This is my first time creating a mod from scratch, so please be patient with me as it is not as polished to the level of the rest of the mods.
 
 ## Features
 - Performance-focused Fabric stack
